@@ -1,8 +1,9 @@
-## Your Name
+## Jessica Brand
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+I'm a London-based analyst and developer, and a future graduate of the March 2021 cohort of Makers Academy. 
+I'm deeply excited by the collaborative nature and creative possibilities of tech.  
 
-## Projects
+## Projects to date
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
@@ -11,13 +12,13 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 
 ## Experience
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**Essentia Analytics** Oct 2019 to Dec 2020  
+Operations and Research Analyst
 
-- Any experience relevent to software development
+- I worked for a Series A FinTech startup. My day-to-day included report production and quality assurance, using SQL, Bash, Tableau, Python, Google Sheets. 
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**Australian Bureau of Statistics** Nov 2015 to Jul 2019  
+Analyst
 
 - Any experience relevent to software development
 
