@@ -1,7 +1,7 @@
 ## Jessica Brand
 
 I'm a London-based analyst and developer, and a future graduate of the March 2021 cohort of Makers Academy. 
-I'm deeply excited by the collaborative nature and creative possibilities of tech.  
+I'm excited by the collaborative nature and creative possibilities of tech. 
 
 ## Projects to date
 
@@ -15,35 +15,34 @@ I'm deeply excited by the collaborative nature and creative possibilities of tec
 **Essentia Analytics** Oct 2019 to Dec 2020  
 Operations and Research Analyst
 
-- I worked for a Series A FinTech startup. My day-to-day included report production and quality assurance, using SQL, Bash, Tableau, Python, Google Sheets. 
+- I worked with a Series A FinTech startup. My day-to-day included report production and quality assurance, using SQL, Bash, Tableau, Python, Google Sheets. 
 
 **Australian Bureau of Statistics** Nov 2015 to Jul 2019  
 Analyst
 
-- Any experience relevent to software development
+- I worked in the Consumer Price Index and Producer Price Index, analysing and collating statistical data and presenting insights on a quarterly cycle. I used Excel, in-house software, and SAS. 
 
 ## Skills
 
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
+#### Web Development
 
-#### This Skill
+Since mid-2020 I have been learning web development: first independently, and now with the support of Makers.
 
-- Experience
-- Achievements
-- Evidence
+- Completed a Udemy course, "The Modern Javascript Bootcamp Course (2021)" - a 50+ hour course on JavaScript and web development. Course completed in Jan 2021. 
+- Produced 8 web-based apps, including a site to compare movie stats using an API, an interactive maze, and a mock online store. 
+- [code still to be uploaded, pending post-course refactors]
 
-#### Another Skill
+#### Analysis and insights 
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+- For 4+ years, I analysed economic data to extract stories about retail and wholesale trends in the Australian economy. 
+- I presented these insights to senior management on a quarterly basis. This involved a broad range of research on different Australian industries, from agriculture, to retail, to healthcare and education. 
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (March 2021 to present)
+[section in progress]
+- Ruby: completed precourse work, including building a student directory program for a hypthetical academy. 
+- [tbd]
 - Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
 - e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
 - you might also mention aspects some other skills/knowledge listed below: 
@@ -52,16 +51,18 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### Australian National University (2012-2015)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- Graduated with a Bachelor of Arts majoring in International Relations, with a minor in Sociology. 
+- Achieved a Distinction average
+- Was in a contemporary classical choir for 4 years, and a pop band for 3 years. Started learning Python during Uni. 
 
 #### Any other qualifications
 
-That in some arguable way make you a better software developer or well-rounded person
+Other relevant achievments include:
+
+- Participating in a hackathon (GovHack 2017) and winning a prize for our web app, whereshouldilive.space, an interactive heat map recommending Canberran suburbs to move to depending on user preferences. 
 
 ## Hobbies
 
-Any cool stuff that makes you a super part of a software development team
+In my spare time I enjoy bouldering and music, and I'm also an amateur mycologist. I enjoy engaging with transhumanist ideas and media. 
