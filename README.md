@@ -3,7 +3,7 @@
 I'm a London-based analyst and developer, and a future graduate of the March 2021 cohort of Makers Academy. 
 I'm excited by the collaborative nature and creative possibilities of tech. 
 
-## Projects to date
+## Projects to date [section in progress]
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
