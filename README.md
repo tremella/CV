@@ -1,24 +1,36 @@
 ## Hi, I'm Jess :sunflower:
 
-I'm a London-based analyst and developer, and a future graduate of the March 2021 cohort of Makers Academy. 
+I'm a London-based analyst and developer, and a graduate of the March 2021 cohort of Makers Academy. 
 I'm excited by the collaborative nature and creative possibilities of tech. 
 
-## Projects to date [section in progress]
+## Projects to date 
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+| Pace                         | A webapp to help running buddies to meet up | **Ruby**, Rails, GoogleMaps API, CSS, RSpec, etc. |
+| BookFace | A social networking site | **Ruby**, jQuery, JavaScript, Rspec, Capybara, PostGreSQL, Rails, CSS, HTML              |
+| Outstagramme | an Instagram clone [_WIP_] | PERN stack (PostGreSQL, Express, React, **Node**), Yarn |
+| Makers BnB | An AirBnB-style website | **Ruby**, Sinatra, Rspec, Capybara |
 
-## Experience
+## Relevant online learning 
 
-**Essentia Analytics** Oct 2019 to Dec 2020  
-Operations and Research Analyst
+The Modern JavaScript Bootcamp Course (2020) - Colt Steele, Stephen Grider - completed
+
+Tableau 2020 A-Z: Hands-on Tableau Training for Data Scientists - Kirill Emenko - completed
+ 
+2020 Complete Python Bootcamp: from Zero to Hero in Python - Jose Portilla, Pieran Data Inc. - in progress
+
+## Work Experience
+
+**Essentia Analytics** Oct 2019 to Dec 2020  (1 year+)
+
+*Operations and Research Analyst*
 
 - I worked with a Series A FinTech startup. My day-to-day included report production and quality assurance, using SQL, Bash, Tableau, Python, Google Sheets. 
 
-**Australian Bureau of Statistics** Nov 2015 to Jul 2019  
-Analyst
+**Australian Bureau of Statistics** Nov 2015 to Jul 2019 (3.5 years+)
+
+*Analyst*
 
 - I worked in the Consumer Price Index and Producer Price Index, analysing and collating statistical data and presenting insights on a quarterly cycle. I used Excel, in-house software, and SAS. 
 
@@ -42,7 +54,7 @@ Since mid-2020 I have been learning web development: first independently, and no
 #### Makers Academy (March 2021 to present)
 [section in progress]
 - Ruby: completed precourse work, including building a student directory program for a hypthetical academy. 
-- [tbd]
+- JavaScript
 - Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
 - e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
 - you might also mention aspects some other skills/knowledge listed below: 
@@ -65,8 +77,8 @@ Other relevant achievments include:
 
 ## Hobbies
 
-In my spare time I enjoy bouldering and music, and I'm also an amateur mycologist. I can play a few instruments and sing well, and I really love visiting galleries and museums. I also enjoy annoying my family with extremely dumb jokes and bad puns. If you've read this far, please enjoy this dumb joke:
+In my spare time I enjoy bouldering and music, and I'm an amateur mycologist. I also enjoy annoying my family with extremely dumb jokes and bad puns. If you've read this far, please enjoy this dumb joke:
 
-Q: What's the difference between a legal document and a cat?
+Q: What's the difference between a legal document and a cat? :cat:
 
-A: One has pauses at the end of its clauses; the other has _clawses_ at the end of its _pawses_
+A: One has pauses at the end of its clauses; the other has _clawses_ at the end of its _pawses_ 🐾
