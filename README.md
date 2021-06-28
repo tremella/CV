@@ -3,7 +3,7 @@
 I'm a London-based analyst and developer, and a graduate of the March 2021 cohort of Makers Academy. 
 I'm excited by the collaborative nature and creative possibilities of tech. 
 
-## Projects to date 
+## notable projects to date 
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
@@ -11,6 +11,7 @@ I'm excited by the collaborative nature and creative possibilities of tech.
 | BookFace | A social networking site | **Ruby**, jQuery, JavaScript, Rspec, Capybara, PostGreSQL, Rails, CSS, HTML              |
 | Outstagramme | an Instagram clone [_WIP_] | PERN stack (PostGreSQL, Express, React, **Node**), Yarn |
 | Makers BnB | An AirBnB-style website | **Ruby**, Sinatra, Rspec, Capybara |
+
 
 ## Relevant online learning 
 
@@ -52,16 +53,14 @@ Since mid-2020 I have been learning web development: first independently, and no
 ## Education
 
 #### Makers Academy (March 2021 to present)
-[section in progress]
-- Ruby: completed precourse work, including building a student directory program for a hypthetical academy. 
-- JavaScript
-- Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
-- e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
-- you might also mention aspects some other skills/knowledge listed below: 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+
+- Ruby: worked on 10+ course challenges, plus a final project (Pace), including a bank tech test, a twitter clone, a bowling calculator, a student directory.
+- Rails: many of the later projects were produced with Rails, 
+- JavaScript: worked on 4 course challenges: a thermostat, a bowling scorecard calculator, an airport simulator, and a basic twitter clone.
+- Worked on 4+ longer challenges (one to two weeks) in various teams using Agile methodology. Developed multiple websites from end-to-end. 
+- Domain modelling: using a class-based approach to planning out projects in advance.
+- TDD: used TDD for the development of several apps, mainly in Ruby (Capybara and Rspec). THis involved feature and unit testing, as well as integration tests. Also developed a testing framework from scratch in JavaScript.
+
 
 #### Australian National University (2012-2015)
 
