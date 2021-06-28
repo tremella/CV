@@ -3,7 +3,7 @@
 I'm a London-based analyst and developer, and a graduate of the March 2021 cohort of Makers Academy. 
 I'm excited by the collaborative nature and creative possibilities of tech. 
 
-## notable projects to date 
+### notable projects to date 
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
@@ -13,7 +13,7 @@ I'm excited by the collaborative nature and creative possibilities of tech.
 | Makers BnB | An AirBnB-style website | **Ruby**, Sinatra, Rspec, Capybara |
 
 
-## Relevant online learning 
+### relevant online learning 
 
 The Modern JavaScript Bootcamp Course (2020) - Colt Steele, Stephen Grider - completed
 
@@ -68,13 +68,13 @@ Since mid-2020 I have been learning web development: first independently, and no
 - Achieved a Distinction average
 - Was in a contemporary classical choir for 4 years, and a pop band for 3 years. Started learning Python during Uni. 
 
-#### Any other qualifications
+### Any other qualifications
 
 Other relevant achievments include:
 
 - Participating in a hackathon (GovHack 2017) and winning a prize for our web app, whereshouldilive.space, an interactive heat map recommending Canberran suburbs to move to depending on user preferences. 
 
-## Hobbies
+### Hobbies
 
 In my spare time I enjoy bouldering and music, and I'm an amateur mycologist. I also enjoy annoying my family with extremely dumb jokes and bad puns. If you've read this far, please enjoy this dumb joke:
 
