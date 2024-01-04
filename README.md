@@ -1,4 +1,5 @@
 ## Hi, I'm Jess :sunflower:
+## This is my CV current as at March 2021. 
 
 I'm a London-based analyst and developer, and a graduate of the March 2021 cohort of Makers Academy. 
 I'm excited by the collaborative nature and creative possibilities of tech. 
